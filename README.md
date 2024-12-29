@@ -20,6 +20,8 @@ This is my first attempt at ricing, so it’s probably not perfect, but I had so
 - **File**: `background.webp`  
 - **Art**: Stolen from [Zerochan](https://www.zerochan.net/4228777)  
 
+### Icons
+-**Yaru**:  i liked how they look, its better than the minty ones at least lol
 ### Fonts  
 - **Determination Sans and Mono** (from undertale)  
 - **Font Awesome**  
