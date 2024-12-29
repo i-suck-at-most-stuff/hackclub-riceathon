@@ -1,7 +1,7 @@
 # My Linux Mint Rice  
 
 ![my linux desktop](/images/image-of-my-desktop.png)
-This is my first attempt at ricing, so it’s probably not perfect, but I had some fun. I tried to make it look nice while working with the limitations of my old laptop. Some things didnt go as planned (like getting Polybar to work—it kept deleting itself and never generated the config file), tryed my best tho.
+This is my first attempt at ricing, so it’s probably not perfect, but I had some fun. I tried to make it look nice while working with the limitations of my old laptop. Some things didnt go as planned (like getting Polybar to work—it kept deleting itself and never generated the config file), tryed my best tho. Also bridget is there cause guilty gear is a game of all time.
 ## Customizations  
 
 ### Panel  
